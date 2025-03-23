@@ -19,8 +19,10 @@ public class Data {
 				+ "annual performance is " + point + "\n" + "brother name is " + name + "\n" + "Hometown of " + hometown
 				+ "\n" + "he is good boy " + status + "\n" + "statement is " + inform);
 
-		System.out.println("shankar");
+		
 
+		
+		System.out.println("shankar");
 	}
 
 }
